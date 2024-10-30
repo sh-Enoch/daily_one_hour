@@ -1,0 +1,13 @@
+{% extends 'index.html' %}
+{% block body %}
+
+{% if person == 'admin'%}
+<p>admin section</p>
+{% elif person == 'reader' %}
+<p>Welcome back book enthusiast</p>
+{% elif person == 'writer'%}
+<p>Welcome writer</p>
+{% else %}
+<p> Welcome  to scroll </p>
+{% endif%}
+{% endblock%}

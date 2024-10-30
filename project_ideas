@@ -1,0 +1,34 @@
+integrate an AI that:
+	takes in information about the product you want to purchase in a store say Naivas, Quickmart,CF.
+	searches all the store for you comparing prices of the product you want 
+	returns the optimal place and amount based on the price.
+	
+	can also be used in jumia, kmall, oraimo....
+	
+	objective:
+		make your shopping easier with realtime information.
+		
+		
+		
+		
+
+Example :
+      user prompts:
+      	kabras sugar 2kg:
+      		Quickmart -> 370
+      		Naivas -> 330
+      		CF online -> 320
+      		CF supermarket -> 350
+      		Jumia -> 350
+      		
+      Returns to the user:
+      		The Best place to buy Kabras Sugar 2kg at the moment is CF online where it goes for 320
+      		
+      		table
+      		quickmart 370
+      		cf supermarket 350
+      		jumia 350
+      		Naivas 330
+      		
+
+		
