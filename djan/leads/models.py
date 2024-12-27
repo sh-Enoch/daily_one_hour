@@ -1,14 +1,17 @@
 from django.db import models
 from django.contrib.auth.models import AbstractUser
+from django.db.models.signals import post_save
 
 class User(AbstractUser):
     pass
 
-class Agent(models.Model):
+
+class UserProfile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
 
     def __str__(self) -> str:
         return self.user.username
+    
 
 # Create your models here.
 class Lead(models.Model):
@@ -21,6 +24,33 @@ class Lead(models.Model):
         return f"{self.first_name} {self.last_name}."
 
 
+class Agent(models.Model):
+    user = models.OneToOneField(User, on_delete=models.CASCADE)
+    organisation = models.ForeignKey(UserProfile, on_delete=models.CASCADE)
+
+    def __str__(self) -> str:
+        return self.user.username
 
 
+#def a signal to create a user profile whenever a user is created
 
+def post_user_created(sender, instance, created, **kwargs):
+    """This event is triggered whenever a user is created
+
+    Args:
+        sender ([type]): [description]
+        instance ([type]): [description]
+        created ([type]): [description]
+        **kwargs ([type]): [description]
+
+    Returns:
+
+    """
+    print(instance, created)
+
+    if created:
+        UserProfile.objects.create(user=instance)
+
+
+#post_save listens for the User model and when a user is created, it calls the post_user_created function
+post_save.connect(post_user_created, sender=User)

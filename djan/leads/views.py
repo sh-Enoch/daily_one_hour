@@ -2,6 +2,7 @@ from django.shortcuts import render, HttpResponse, redirect, reverse
 from .models import Lead, Agent
 from .forms import LeadCreate, LeadModelForm, CustomUserCreationForm
 from django.views.generic import TemplateView, ListView, DetailView, CreateView, UpdateView
+from django.contrib.auth.mixins import LoginRequiredMixin
 #
 class LandingPageView(TemplateView):
     template_name = "mains.html"
@@ -19,7 +20,7 @@ class SignupView(CreateView):
         return reverse("login")
 
 #create a class based  list view
-class LeadListView(ListView):
+class LeadListView(LoginRequiredMixin, ListView):
     template_name ="leads_list.html"
     queryset = Lead.objects.all()
     context_object_name = "leads"
@@ -32,7 +33,7 @@ def leads_list(request):
     return render(request, 'leads_list.html', context)
 
 #create a class based detail view
-class LeadDetailView(DetailView):
+class LeadDetailView(LoginRequiredMixin, DetailView):
     template_name = "lead_detail.html"
     queryset = Lead.objects.all()
     context_object_name = "lead"
@@ -46,7 +47,7 @@ def lead_view(request, pk):
     return render(request, 'lead_detail.html',context)
 
 # craete a class based update view
-class LeadUpdateView(UpdateView):
+class LeadUpdateView(LoginRequiredMixin, UpdateView):
     template_name = 'update_lead.html'
     queryset = Lead.objects.all()
     form_class = LeadModelForm
@@ -71,7 +72,7 @@ def lead_update(request, pk):
     return render(request, 'update_lead.html', context)
 
 #define a class based create view
-class LeadCreateView(CreateView):
+class LeadCreateView(LoginRequiredMixin, CreateView):
     template_name = 'create_lead.html'
     form_class = LeadModelForm
 
