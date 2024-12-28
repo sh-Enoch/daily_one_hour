@@ -27,4 +27,5 @@ urlpatterns = [
     path('', LandingPageView.as_view(), name="landing_page"),
     path('logout/', LogoutView.as_view(), name="logout"),
     path('signup/', SignupView.as_view(), name="signup"),
+    path('agents/', include('agents.urls', namespace="agents")),
 ]
