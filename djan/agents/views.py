@@ -3,18 +3,21 @@ from django.views.generic import ListView, DetailView, CreateView, UpdateView, D
 from leads.models import Agent
 from .forms import AgentModelForm
 from django.contrib.auth.mixins import LoginRequiredMixin
+from .mixins import OrganiserLoginRequiredMixin
 # Create your views here.
 
 
-class AgentListView(LoginRequiredMixin, ListView):
+class AgentListView(OrganiserLoginRequiredMixin, ListView):
     template_name = 'agents/agent_list.html'
     context_object_name = 'agents'
 
     def get_queryset(self):
-        return Agent.objects.all()
+        """Filter agents based on the user's organisation"""
+        organisation = self.request.user.userprofile
+        return Agent.objects.filter(organisation=organisation)
     
 
-class AgentCreateView(LoginRequiredMixin, CreateView):
+class AgentCreateView(OrganiserLoginRequiredMixin, CreateView):
     template_name = 'agents/agent_create.html'
     form_class = AgentModelForm
 
@@ -28,26 +31,38 @@ class AgentCreateView(LoginRequiredMixin, CreateView):
         return reverse('agents:agent-list')
 
 
-class AgentDetailView(LoginRequiredMixin, DetailView):
+class AgentDetailView(OrganiserLoginRequiredMixin, DetailView):
     template_name = 'agents/agent_detail.html'
     context_object_name = 'agent'
-    queryset = Agent.objects.all()
+    
+    def get_queryset(self):
+        """Filter agents based on the user's organisation"""
+        organisation = self.request.user.userprofile
+        return Agent.objects.filter(organisation=organisation)
     
 
-class AgentDeleteView(LoginRequiredMixin, DeleteView):
+class AgentDeleteView(OrganiserLoginRequiredMixin, DeleteView):
     template_name = 'agents/agent_delete.html'
     context_object_name = 'agent'
-    queryset = Agent.objects.all()
-
+    
+    def get_queryset(self):
+        """Filter agents based on the user's organisation"""
+        organisation = self.request.user.userprofile
+        return Agent.objects.filter(organisation=organisation)
+    
     def get_success_url(self):
         return reverse('agents:agent-list')
     
 
-class AgentUpdateView(LoginRequiredMixin, UpdateView):
+class AgentUpdateView(OrganiserLoginRequiredMixin, UpdateView):
     template_name = 'agents/agent_update.html'
     form_class = AgentModelForm
-    queryset = Agent.objects.all()
     context_object_name = 'agent'
+
+    def get_queryset(self):
+        """Filter agents based on the user's organisation"""
+        organisation = self.request.user.userprofile
+        return Agent.objects.filter(organisation=organisation)
 
     def get_success_url(self):
         return reverse('agents:agent-list')

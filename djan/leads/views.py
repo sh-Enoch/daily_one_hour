@@ -1,8 +1,9 @@
 from django.shortcuts import render, HttpResponse, redirect, reverse
 from .models import Lead, Agent
 from .forms import LeadCreate, LeadModelForm, CustomUserCreationForm
-from django.views.generic import TemplateView, ListView, DetailView, CreateView, UpdateView
+from django.views.generic import TemplateView, ListView, DetailView, CreateView, UpdateView, DeleteView
 from django.contrib.auth.mixins import LoginRequiredMixin
+from agents.mixins import OrganiserLoginRequiredMixin
 #
 class LandingPageView(TemplateView):
     template_name = "mains.html"
@@ -22,15 +23,17 @@ class SignupView(CreateView):
 #create a class based  list view
 class LeadListView(LoginRequiredMixin, ListView):
     template_name ="leads_list.html"
-    queryset = Lead.objects.all()
     context_object_name = "leads"
 
-def leads_list(request):
-    lead = Lead.objects.all()
-    context = {
-        "leads": lead
-    }
-    return render(request, 'leads_list.html', context)
+    def get_queryset(self):
+        user = self.request.user
+        if user.is_organiser:
+            queryset = Lead.objects.filter(organisation=user.userprofile)
+        else:
+            queryset = Lead.objects.filter(organisation= user.agent.organisation)
+            queryset = queryset.filter(agent__user=user)
+        return queryset
+
 
 #create a class based detail view
 class LeadDetailView(LoginRequiredMixin, DetailView):
@@ -72,7 +75,7 @@ def lead_update(request, pk):
     return render(request, 'update_lead.html', context)
 
 #define a class based create view
-class LeadCreateView(LoginRequiredMixin, CreateView):
+class LeadCreateView(OrganiserLoginRequiredMixin, CreateView):
     template_name = 'create_lead.html'
     form_class = LeadModelForm
 
@@ -80,25 +83,14 @@ class LeadCreateView(LoginRequiredMixin, CreateView):
         return reverse("leads:lead_list")
 
 
-def lead_create(request):
-    form = LeadModelForm()
-    if request.method == "POST":
-        form = LeadModelForm(request.POST)
-        if form.is_valid():
-            form.save()
-            return redirect('/leads/all/')
+class LeadDeleteView(OrganiserLoginRequiredMixin, DeleteView):
+    template_name = 'delete_lead.html'
+    queryset = Lead.objects.all()
+
+    def get_success_url(self):
+        return reverse("leads:lead_list")
 
 
-    context = {
-        "form": form
-    }
-
-    return render(request, 'create_lead.html', context)
-
-def lead_delete(request, pk):
-    lead = Lead.objects.get(id=pk)
-    lead.delete()
-    return redirect("/leads/all")
 
 # def lead_create(request):
 #     form = LeadModelForm()
