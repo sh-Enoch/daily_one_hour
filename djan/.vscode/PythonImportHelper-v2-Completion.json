@@ -1,0 +1,1225 @@
+[
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Agent",
+        "importPath": "leads.models",
+        "description": "leads.models",
+        "isExtraImport": true,
+        "detail": "leads.models",
+        "documentation": {}
+    },
+    {
+        "label": "Agent",
+        "importPath": "leads.models",
+        "description": "leads.models",
+        "isExtraImport": true,
+        "detail": "leads.models",
+        "documentation": {}
+    },
+    {
+        "label": "Lead",
+        "importPath": "leads.models",
+        "description": "leads.models",
+        "isExtraImport": true,
+        "detail": "leads.models",
+        "documentation": {}
+    },
+    {
+        "label": "Agent",
+        "importPath": "leads.models",
+        "description": "leads.models",
+        "isExtraImport": true,
+        "detail": "leads.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "leads.models",
+        "description": "leads.models",
+        "isExtraImport": true,
+        "detail": "leads.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "importPath": "leads.models",
+        "description": "leads.models",
+        "isExtraImport": true,
+        "detail": "leads.models",
+        "documentation": {}
+    },
+    {
+        "label": "ModelForm",
+        "importPath": "django.forms",
+        "description": "django.forms",
+        "isExtraImport": true,
+        "detail": "django.forms",
+        "documentation": {}
+    },
+    {
+        "label": "AccessMixin",
+        "importPath": "django.contrib.auth.mixins",
+        "description": "django.contrib.auth.mixins",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequiredMixin",
+        "importPath": "django.contrib.auth.mixins",
+        "description": "django.contrib.auth.mixins",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequiredMixin",
+        "importPath": "django.contrib.auth.mixins",
+        "description": "django.contrib.auth.mixins",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "DetailView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "DetailView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordResetView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordResetDoneView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordResetConfirmView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordResetCompleteView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "landing_page",
+        "importPath": "leads.views",
+        "description": "leads.views",
+        "isExtraImport": true,
+        "detail": "leads.views",
+        "documentation": {}
+    },
+    {
+        "label": "LandingPageView",
+        "importPath": "leads.views",
+        "description": "leads.views",
+        "isExtraImport": true,
+        "detail": "leads.views",
+        "documentation": {}
+    },
+    {
+        "label": "SignupView",
+        "importPath": "leads.views",
+        "description": "leads.views",
+        "isExtraImport": true,
+        "detail": "leads.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UsernameField",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "OrganiserLoginRequiredMixin",
+        "importPath": "agents.mixins",
+        "description": "agents.mixins",
+        "isExtraImport": true,
+        "detail": "agents.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "AgentsConfig",
+        "kind": 6,
+        "importPath": "agents.apps",
+        "description": "agents.apps",
+        "peekOfCode": "class AgentsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'agents'",
+        "detail": "agents.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AgentModelForm",
+        "kind": 6,
+        "importPath": "agents.forms",
+        "description": "agents.forms",
+        "peekOfCode": "class AgentModelForm(ModelForm):\n    class Meta:\n        model = Agent\n        fields = (\n            'user',\n        )",
+        "detail": "agents.forms",
+        "documentation": {}
+    },
+    {
+        "label": "OrganiserLoginRequiredMixin",
+        "kind": 6,
+        "importPath": "agents.mixins",
+        "description": "agents.mixins",
+        "peekOfCode": "class OrganiserLoginRequiredMixin(AccessMixin):\n    \"\"\"Verify that the current user is authenticated.\"\"\"\n    def dispatch(self, request, *args, **kwargs):\n        if not request.user.is_authenticated or not request.user.is_organiser:\n            return redirect('leads:lead_list')\n        return super().dispatch(request, *args, **kwargs)",
+        "detail": "agents.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "agents.urls",
+        "description": "agents.urls",
+        "peekOfCode": "app_name = 'agents'\nurlpatterns = [\n    path('', AgentListView.as_view(), name='agent-list'),\n    path('create/', AgentCreateView.as_view(), name='agent-create'),\n    path('<int:pk>/', AgentDetailView.as_view(), name='agent-detail'),\n    path('<int:pk>/delete/', AgentDeleteView.as_view(), name='agent-delete'),\n    path('<int:pk>/update/', AgentUpdateView.as_view(), name='agent-update'),\n]",
+        "detail": "agents.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "agents.urls",
+        "description": "agents.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', AgentListView.as_view(), name='agent-list'),\n    path('create/', AgentCreateView.as_view(), name='agent-create'),\n    path('<int:pk>/', AgentDetailView.as_view(), name='agent-detail'),\n    path('<int:pk>/delete/', AgentDeleteView.as_view(), name='agent-delete'),\n    path('<int:pk>/update/', AgentUpdateView.as_view(), name='agent-update'),\n]",
+        "detail": "agents.urls",
+        "documentation": {}
+    },
+    {
+        "label": "AgentListView",
+        "kind": 6,
+        "importPath": "agents.views",
+        "description": "agents.views",
+        "peekOfCode": "class AgentListView(OrganiserLoginRequiredMixin, ListView):\n    template_name = 'agents/agent_list.html'\n    context_object_name = 'agents'\n    def get_queryset(self):\n        \"\"\"Filter agents based on the user's organisation\"\"\"\n        organisation = self.request.user.userprofile\n        return Agent.objects.filter(organisation=organisation)\nclass AgentCreateView(OrganiserLoginRequiredMixin, CreateView):\n    template_name = 'agents/agent_create.html'\n    form_class = AgentModelForm",
+        "detail": "agents.views",
+        "documentation": {}
+    },
+    {
+        "label": "AgentCreateView",
+        "kind": 6,
+        "importPath": "agents.views",
+        "description": "agents.views",
+        "peekOfCode": "class AgentCreateView(OrganiserLoginRequiredMixin, CreateView):\n    template_name = 'agents/agent_create.html'\n    form_class = AgentModelForm\n    def form_valid(self, form):\n        agent = form.save(commit=False)\n        agent.organisation = self.request.user.userprofile\n        agent.save()\n        return super(AgentCreateView, self).form_valid(form)\n    def get_success_url(self):\n        return reverse('agents:agent-list')",
+        "detail": "agents.views",
+        "documentation": {}
+    },
+    {
+        "label": "AgentDetailView",
+        "kind": 6,
+        "importPath": "agents.views",
+        "description": "agents.views",
+        "peekOfCode": "class AgentDetailView(OrganiserLoginRequiredMixin, DetailView):\n    template_name = 'agents/agent_detail.html'\n    context_object_name = 'agent'\n    def get_queryset(self):\n        \"\"\"Filter agents based on the user's organisation\"\"\"\n        organisation = self.request.user.userprofile\n        return Agent.objects.filter(organisation=organisation)\nclass AgentDeleteView(OrganiserLoginRequiredMixin, DeleteView):\n    template_name = 'agents/agent_delete.html'\n    context_object_name = 'agent'",
+        "detail": "agents.views",
+        "documentation": {}
+    },
+    {
+        "label": "AgentDeleteView",
+        "kind": 6,
+        "importPath": "agents.views",
+        "description": "agents.views",
+        "peekOfCode": "class AgentDeleteView(OrganiserLoginRequiredMixin, DeleteView):\n    template_name = 'agents/agent_delete.html'\n    context_object_name = 'agent'\n    def get_queryset(self):\n        \"\"\"Filter agents based on the user's organisation\"\"\"\n        organisation = self.request.user.userprofile\n        return Agent.objects.filter(organisation=organisation)\n    def get_success_url(self):\n        return reverse('agents:agent-list')\nclass AgentUpdateView(OrganiserLoginRequiredMixin, UpdateView):",
+        "detail": "agents.views",
+        "documentation": {}
+    },
+    {
+        "label": "AgentUpdateView",
+        "kind": 6,
+        "importPath": "agents.views",
+        "description": "agents.views",
+        "peekOfCode": "class AgentUpdateView(OrganiserLoginRequiredMixin, UpdateView):\n    template_name = 'agents/agent_update.html'\n    form_class = AgentModelForm\n    context_object_name = 'agent'\n    def get_queryset(self):\n        \"\"\"Filter agents based on the user's organisation\"\"\"\n        organisation = self.request.user.userprofile\n        return Agent.objects.filter(organisation=organisation)\n    def get_success_url(self):\n        return reverse('agents:agent-list')",
+        "detail": "agents.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "djcrm.asgi",
+        "description": "djcrm.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "djcrm.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-dc-v+4-v+hb*0m!#z3+smc7jc%-l)b_(+%&(1gzl)maeq2m)ty'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-dc-v+4-v+hb*0m!#z3+smc7jc%-l)b_(+%&(1gzl)maeq2m)ty'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'leads',",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'leads',\n    'agents',\n]",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'djcrm.urls'",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "ROOT_URLCONF = 'djcrm.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / \"templates\"],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / \"templates\"],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'djcrm.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'leads.User'",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'leads.User'\nLOGIN_REDIRECT_URL = '/leads/all'",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'leads.User'\nLOGIN_REDIRECT_URL = '/leads/all'\nLOGOUT_REDIRECT_URL = '/login'",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'leads.User'\nLOGIN_REDIRECT_URL = '/leads/all'\nLOGOUT_REDIRECT_URL = '/login'\nLOGIN_URL = '/login'\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\nDEFAULT_FROM_EMAIL = 'webmaster@localhost'",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'leads.User'\nLOGIN_REDIRECT_URL = '/leads/all'\nLOGOUT_REDIRECT_URL = '/login'\nLOGIN_URL = '/login'\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\nDEFAULT_FROM_EMAIL = 'webmaster@localhost'\nEMAIL_SUBJECT_PREFIX = '[CoLearn]'",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'leads.User'\nLOGIN_REDIRECT_URL = '/leads/all'\nLOGOUT_REDIRECT_URL = '/login'\nLOGIN_URL = '/login'\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\nDEFAULT_FROM_EMAIL = 'webmaster@localhost'\nEMAIL_SUBJECT_PREFIX = '[CoLearn]'",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = '/leads/all'\nLOGOUT_REDIRECT_URL = '/login'\nLOGIN_URL = '/login'\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\nDEFAULT_FROM_EMAIL = 'webmaster@localhost'\nEMAIL_SUBJECT_PREFIX = '[CoLearn]'",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGOUT_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "LOGOUT_REDIRECT_URL = '/login'\nLOGIN_URL = '/login'\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\nDEFAULT_FROM_EMAIL = 'webmaster@localhost'\nEMAIL_SUBJECT_PREFIX = '[CoLearn]'",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_URL",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "LOGIN_URL = '/login'\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\nDEFAULT_FROM_EMAIL = 'webmaster@localhost'\nEMAIL_SUBJECT_PREFIX = '[CoLearn]'",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\nDEFAULT_FROM_EMAIL = 'webmaster@localhost'\nEMAIL_SUBJECT_PREFIX = '[CoLearn]'",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_FROM_EMAIL",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "DEFAULT_FROM_EMAIL = 'webmaster@localhost'\nEMAIL_SUBJECT_PREFIX = '[CoLearn]'",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_SUBJECT_PREFIX",
+        "kind": 5,
+        "importPath": "djcrm.settings",
+        "description": "djcrm.settings",
+        "peekOfCode": "EMAIL_SUBJECT_PREFIX = '[CoLearn]'",
+        "detail": "djcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "djcrm.urls",
+        "description": "djcrm.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('login/', LoginView.as_view(), name=\"login\"),\n    path('leads/', include('leads.urls', namespace=\"leads\")),\n    path('', LandingPageView.as_view(), name=\"landing_page\"),\n    path('logout/', LogoutView.as_view(), name=\"logout\"),\n    path('signup/', SignupView.as_view(), name=\"signup\"),\n    path('agents/', include('agents.urls', namespace=\"agents\")),\n    path('reset-password/', PasswordResetView.as_view(), name=\"reset-password\"),\n    path('password-reset-done/', PasswordResetDoneView.as_view(), name=\"password_reset_done\"),",
+        "detail": "djcrm.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "djcrm.wsgi",
+        "description": "djcrm.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "djcrm.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "leads.migrations.0001_initial",
+        "description": "leads.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "leads.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "leads.migrations.0002_userprofile_agent_organisation",
+        "description": "leads.migrations.0002_userprofile_agent_organisation",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('leads', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserProfile',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('user', models.OneToOneField(on_delete=django.db.models.deletion.CASCADE, to=settings.AUTH_USER_MODEL)),",
+        "detail": "leads.migrations.0002_userprofile_agent_organisation",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "leads.migrations.0003_user_is_agent_user_is_organiser",
+        "description": "leads.migrations.0003_user_is_agent_user_is_organiser",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('leads', '0002_userprofile_agent_organisation'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='user',\n            name='is_agent',\n            field=models.BooleanField(default=False),\n        ),",
+        "detail": "leads.migrations.0003_user_is_agent_user_is_organiser",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "leads.migrations.0004_alter_lead_agent",
+        "description": "leads.migrations.0004_alter_lead_agent",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('leads', '0003_user_is_agent_user_is_organiser'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='lead',\n            name='agent',\n            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.SET_NULL, to='leads.agent'),\n        ),",
+        "detail": "leads.migrations.0004_alter_lead_agent",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "leads.migrations.0005_lead_organisation",
+        "description": "leads.migrations.0005_lead_organisation",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('leads', '0004_alter_lead_agent'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='lead',\n            name='organisation',\n            field=models.ForeignKey(default=1, on_delete=django.db.models.deletion.CASCADE, to='leads.userprofile'),\n            preserve_default=False,",
+        "detail": "leads.migrations.0005_lead_organisation",
+        "documentation": {}
+    },
+    {
+        "label": "LeadsConfig",
+        "kind": 6,
+        "importPath": "leads.apps",
+        "description": "leads.apps",
+        "peekOfCode": "class LeadsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'leads'",
+        "detail": "leads.apps",
+        "documentation": {}
+    },
+    {
+        "label": "LeadModelForm",
+        "kind": 6,
+        "importPath": "leads.forms",
+        "description": "leads.forms",
+        "peekOfCode": "class LeadModelForm(forms.ModelForm):\n    class Meta:\n        model = Lead\n        fields = (\n            'first_name',\n            'last_name',\n            'age',\n            'agent'\n        )\nclass LeadCreate(forms.Form):",
+        "detail": "leads.forms",
+        "documentation": {}
+    },
+    {
+        "label": "LeadCreate",
+        "kind": 6,
+        "importPath": "leads.forms",
+        "description": "leads.forms",
+        "peekOfCode": "class LeadCreate(forms.Form):\n    first_name = forms.CharField(max_length=10)\n    last_name = forms.CharField(max_length=10)\n    age = forms.IntegerField(min_value=0)\nclass CustomUserCreationForm(UserCreationForm):\n    class Meta:\n        model = User\n        fields = (\"username\",)\n        field_classes = {\"username\": UsernameField}",
+        "detail": "leads.forms",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserCreationForm",
+        "kind": 6,
+        "importPath": "leads.forms",
+        "description": "leads.forms",
+        "peekOfCode": "class CustomUserCreationForm(UserCreationForm):\n    class Meta:\n        model = User\n        fields = (\"username\",)\n        field_classes = {\"username\": UsernameField}",
+        "detail": "leads.forms",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "leads.forms",
+        "description": "leads.forms",
+        "peekOfCode": "User = get_user_model()\nclass LeadModelForm(forms.ModelForm):\n    class Meta:\n        model = Lead\n        fields = (\n            'first_name',\n            'last_name',\n            'age',\n            'agent'\n        )",
+        "detail": "leads.forms",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "leads.models",
+        "description": "leads.models",
+        "peekOfCode": "class User(AbstractUser):\n    is_organiser = models.BooleanField(default=True)\n    is_agent = models.BooleanField(default=False)\nclass UserProfile(models.Model):\n    user = models.OneToOneField(User, on_delete=models.CASCADE)\n    def __str__(self) -> str:\n        return self.user.username\n# Create your models here.\nclass Lead(models.Model):\n    first_name = models.CharField(max_length=10)",
+        "detail": "leads.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "kind": 6,
+        "importPath": "leads.models",
+        "description": "leads.models",
+        "peekOfCode": "class UserProfile(models.Model):\n    user = models.OneToOneField(User, on_delete=models.CASCADE)\n    def __str__(self) -> str:\n        return self.user.username\n# Create your models here.\nclass Lead(models.Model):\n    first_name = models.CharField(max_length=10)\n    last_name = models.CharField(max_length=10)\n    age = models.IntegerField(default=0)\n    organisation = models.ForeignKey(UserProfile, on_delete=models.CASCADE)",
+        "detail": "leads.models",
+        "documentation": {}
+    },
+    {
+        "label": "Lead",
+        "kind": 6,
+        "importPath": "leads.models",
+        "description": "leads.models",
+        "peekOfCode": "class Lead(models.Model):\n    first_name = models.CharField(max_length=10)\n    last_name = models.CharField(max_length=10)\n    age = models.IntegerField(default=0)\n    organisation = models.ForeignKey(UserProfile, on_delete=models.CASCADE)\n    agent = models.ForeignKey('Agent', on_delete=models.SET_NULL, null=True, blank=True)\n    def __str__(self) -> str:\n        return f\"{self.first_name} {self.last_name}.\"\nclass Agent(models.Model):\n    user = models.OneToOneField(User, on_delete=models.CASCADE)",
+        "detail": "leads.models",
+        "documentation": {}
+    },
+    {
+        "label": "Agent",
+        "kind": 6,
+        "importPath": "leads.models",
+        "description": "leads.models",
+        "peekOfCode": "class Agent(models.Model):\n    user = models.OneToOneField(User, on_delete=models.CASCADE)\n    organisation = models.ForeignKey(UserProfile, on_delete=models.CASCADE)\n    def __str__(self) -> str:\n        return self.user.email\n#def a signal to create a user profile whenever a user is created\ndef post_user_created(sender, instance, created, **kwargs):\n    \"\"\"This event is triggered whenever a user is created\n    Args:\n        sender ([type]): [description]",
+        "detail": "leads.models",
+        "documentation": {}
+    },
+    {
+        "label": "post_user_created",
+        "kind": 2,
+        "importPath": "leads.models",
+        "description": "leads.models",
+        "peekOfCode": "def post_user_created(sender, instance, created, **kwargs):\n    \"\"\"This event is triggered whenever a user is created\n    Args:\n        sender ([type]): [description]\n        instance ([type]): [description]\n        created ([type]): [description]\n        **kwargs ([type]): [description]\n    Returns:\n    \"\"\"\n    print(instance, created)",
+        "detail": "leads.models",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "leads.urls",
+        "description": "leads.urls",
+        "peekOfCode": "app_name = 'leads'\nurlpatterns = [\n    path('all/', LeadListView.as_view(), name=\"lead_list\"),\n    path('<int:pk>/', LeadDetailView.as_view(),name=\"lead_view\"),\n    path('update/<int:pk>/', LeadUpdateView.as_view(), name=\"lead_update\"),\n    path('<int:pk>/delete/', LeadDeleteView.as_view(), name=\"lead_delete\"),\n    path('create/', LeadCreateView.as_view(), name=\"lead_create\"),\n]",
+        "detail": "leads.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "leads.urls",
+        "description": "leads.urls",
+        "peekOfCode": "urlpatterns = [\n    path('all/', LeadListView.as_view(), name=\"lead_list\"),\n    path('<int:pk>/', LeadDetailView.as_view(),name=\"lead_view\"),\n    path('update/<int:pk>/', LeadUpdateView.as_view(), name=\"lead_update\"),\n    path('<int:pk>/delete/', LeadDeleteView.as_view(), name=\"lead_delete\"),\n    path('create/', LeadCreateView.as_view(), name=\"lead_create\"),\n]",
+        "detail": "leads.urls",
+        "documentation": {}
+    },
+    {
+        "label": "LandingPageView",
+        "kind": 6,
+        "importPath": "leads.views",
+        "description": "leads.views",
+        "peekOfCode": "class LandingPageView(TemplateView):\n    template_name = \"mains.html\"\n# Create your views here.\ndef landing_page(request):\n    return render(request, \"mains.html\")\n#create a signup view\nclass SignupView(CreateView):\n    template_name = \"registration/signup.html\"\n    form_class = CustomUserCreationForm\n    def get_success_url(self):",
+        "detail": "leads.views",
+        "documentation": {}
+    },
+    {
+        "label": "SignupView",
+        "kind": 6,
+        "importPath": "leads.views",
+        "description": "leads.views",
+        "peekOfCode": "class SignupView(CreateView):\n    template_name = \"registration/signup.html\"\n    form_class = CustomUserCreationForm\n    def get_success_url(self):\n        return reverse(\"login\")\n#create a class based  list view\nclass LeadListView(LoginRequiredMixin, ListView):\n    template_name =\"leads_list.html\"\n    context_object_name = \"leads\"\n    def get_queryset(self):",
+        "detail": "leads.views",
+        "documentation": {}
+    },
+    {
+        "label": "LeadListView",
+        "kind": 6,
+        "importPath": "leads.views",
+        "description": "leads.views",
+        "peekOfCode": "class LeadListView(LoginRequiredMixin, ListView):\n    template_name =\"leads_list.html\"\n    context_object_name = \"leads\"\n    def get_queryset(self):\n        user = self.request.user\n        if user.is_organiser:\n            queryset = Lead.objects.filter(organisation=user.userprofile)\n        else:\n            queryset = Lead.objects.filter(organisation= user.agent.organisation)\n            queryset = queryset.filter(agent__user=user)",
+        "detail": "leads.views",
+        "documentation": {}
+    },
+    {
+        "label": "LeadDetailView",
+        "kind": 6,
+        "importPath": "leads.views",
+        "description": "leads.views",
+        "peekOfCode": "class LeadDetailView(LoginRequiredMixin, DetailView):\n    template_name = \"lead_detail.html\"\n    queryset = Lead.objects.all()\n    context_object_name = \"lead\"\ndef lead_view(request, pk):\n    lead = Lead.objects.get(id=pk)\n    context = {\n        \"lead\": lead\n    }\n    return render(request, 'lead_detail.html',context)",
+        "detail": "leads.views",
+        "documentation": {}
+    },
+    {
+        "label": "LeadUpdateView",
+        "kind": 6,
+        "importPath": "leads.views",
+        "description": "leads.views",
+        "peekOfCode": "class LeadUpdateView(LoginRequiredMixin, UpdateView):\n    template_name = 'update_lead.html'\n    queryset = Lead.objects.all()\n    form_class = LeadModelForm\n    def get_success_url(self):\n        return reverse(\"leads:lead_list\")\ndef lead_update(request, pk):\n    lead = Lead.objects.get(id=pk)\n    form = LeadModelForm(instance=lead)\n    if request.method == \"POST\":",
+        "detail": "leads.views",
+        "documentation": {}
+    },
+    {
+        "label": "LeadCreateView",
+        "kind": 6,
+        "importPath": "leads.views",
+        "description": "leads.views",
+        "peekOfCode": "class LeadCreateView(OrganiserLoginRequiredMixin, CreateView):\n    template_name = 'create_lead.html'\n    form_class = LeadModelForm\n    def get_success_url(self):\n        return reverse(\"leads:lead_list\")\nclass LeadDeleteView(OrganiserLoginRequiredMixin, DeleteView):\n    template_name = 'delete_lead.html'\n    queryset = Lead.objects.all()\n    def get_success_url(self):\n        return reverse(\"leads:lead_list\")",
+        "detail": "leads.views",
+        "documentation": {}
+    },
+    {
+        "label": "LeadDeleteView",
+        "kind": 6,
+        "importPath": "leads.views",
+        "description": "leads.views",
+        "peekOfCode": "class LeadDeleteView(OrganiserLoginRequiredMixin, DeleteView):\n    template_name = 'delete_lead.html'\n    queryset = Lead.objects.all()\n    def get_success_url(self):\n        return reverse(\"leads:lead_list\")\n# def lead_create(request):\n#     form = LeadModelForm()\n#     if request.method == \"POST\":\n#         print(\"Receiving data\")\n#         form = LeadModelForm(request.POST)",
+        "detail": "leads.views",
+        "documentation": {}
+    },
+    {
+        "label": "landing_page",
+        "kind": 2,
+        "importPath": "leads.views",
+        "description": "leads.views",
+        "peekOfCode": "def landing_page(request):\n    return render(request, \"mains.html\")\n#create a signup view\nclass SignupView(CreateView):\n    template_name = \"registration/signup.html\"\n    form_class = CustomUserCreationForm\n    def get_success_url(self):\n        return reverse(\"login\")\n#create a class based  list view\nclass LeadListView(LoginRequiredMixin, ListView):",
+        "detail": "leads.views",
+        "documentation": {}
+    },
+    {
+        "label": "lead_view",
+        "kind": 2,
+        "importPath": "leads.views",
+        "description": "leads.views",
+        "peekOfCode": "def lead_view(request, pk):\n    lead = Lead.objects.get(id=pk)\n    context = {\n        \"lead\": lead\n    }\n    return render(request, 'lead_detail.html',context)\n# craete a class based update view\nclass LeadUpdateView(LoginRequiredMixin, UpdateView):\n    template_name = 'update_lead.html'\n    queryset = Lead.objects.all()",
+        "detail": "leads.views",
+        "documentation": {}
+    },
+    {
+        "label": "lead_update",
+        "kind": 2,
+        "importPath": "leads.views",
+        "description": "leads.views",
+        "peekOfCode": "def lead_update(request, pk):\n    lead = Lead.objects.get(id=pk)\n    form = LeadModelForm(instance=lead)\n    if request.method == \"POST\":\n        form = LeadModelForm(request.POST, instance=lead)\n        if form.is_valid():\n            form.save()\n            return redirect('/leads/all/')\n    context = {\n        \"lead\":lead,",
+        "detail": "leads.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'djcrm.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

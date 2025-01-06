@@ -129,3 +129,9 @@ AUTH_USER_MODEL = 'leads.User'
 LOGIN_REDIRECT_URL = '/leads/all'
 LOGOUT_REDIRECT_URL = '/login'
 LOGIN_URL = '/login'
+
+
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+
+DEFAULT_FROM_EMAIL = 'webmaster@localhost'
+EMAIL_SUBJECT_PREFIX = '[CoLearn]'
